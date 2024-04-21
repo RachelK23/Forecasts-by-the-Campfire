@@ -48,7 +48,8 @@ Moving or relocating is a lifechanging milestone, and weather and climate play a
 
 <p align="center">
   <img src="Frame 1.png" alt="app" width="200">
-  <img src="Frame 1.png" alt="app" width="200">
+  <img src="Frame 4.png" alt="app" width="200">
+  <img src="Frame 12.png" alt="app" width="200">
 </p>
 
 ### Built With ⚒️
