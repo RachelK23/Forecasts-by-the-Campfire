@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/IreneL7/StudyTerp.git
+   git clone https://github.com/RachelK23/Forecasts-by-the-Campfire.git
    ```
 3. Install NPM packages
    ```sh
