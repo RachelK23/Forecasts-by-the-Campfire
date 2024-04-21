@@ -4,13 +4,13 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="img/app.png" alt="app" width="200">
+  <img src="Frame 12 (1).png" alt="app" width="200">
 </p>
 <br />
 <div align="center">
   <a href="https://github.com/RachelK23/Forecasts-by-the-Campfire"></a>
 
-<h3 align="center" font-size=36px>Study Terp</h3>
+<h3 align="center" font-size=36px>Forecasts By The Campfire</h3>
 
   <p align="center">
     Get personalized housing and financial advice by sitting at the campfire with our cute creatures and discovering who you're most like!
@@ -45,6 +45,11 @@
 
 Moving or relocating is a lifechanging milestone, and weather and climate play a big role in people's decisions. Overall climate, frequency of natural disasters, and other geographical features affect housing preferences, so we decided to create a fun and interactive way to allow people to learn what best suits them based on their income, location, and demographic. After extracting and analyzing data, we wanted to gamify our users' experiences by creating an interactive quiz and assigned each user a unique creature that best matches their descriptions and provides them advice on next steps to take.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="center">
+  <img src="Frame 1.png" alt="app" width="200">
+  <img src="Frame 1.png" alt="app" width="200">
+</p>
 
 ### Built With ⚒️
 
